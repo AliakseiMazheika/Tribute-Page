@@ -1,2 +1,2 @@
 # Tribute-Page
-2nd task. Build Tribute Page. Freecodecamp.com
+Build Tribute Page. Freecodecamp.com (2nd task). 
